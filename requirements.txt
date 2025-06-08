@@ -1,0 +1,9 @@
+python-dotenv
+colorama
+pytest
+pypdf
+langchain>=0.2.0
+langchain-community>=0.0.20
+openai>=1.0.0
+faiss-cpu
+tiktoken
